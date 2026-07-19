@@ -1,4 +1,9 @@
-Actual locations for the scripts will be [here](https://github.com/pieeg-club/PiEEG) , now just only Python.
+Software [PiEEG Server](https://github.com/pieeg-club/PiEEG-server)   
+[Manual](https://colab.research.google.com/drive/1xW6fwzVdLH83zHoorjeWai6SdZoOanfA#scrollTo=9bxgisvWfs5f)    
+[Manual for quick start ](https://github.com/pieeg-club/PiEEG/blob/main/Manual.%20Conenction%20and%20start%20-%20PiEEG1.pdf)    
+PiEEG SDK [video manual](https://youtu.be/9jLyN2zRXdU)     
+
+Actual locations for the scripts will be [here](https://github.com/pieeg-club/PiEEG) 
 
 
 ### To Buy - PiEEG is available in the market at our partner shop [Elecrow](https://pieeg.com/pieeg/)
