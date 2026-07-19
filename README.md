@@ -1,25 +1,15 @@
+### PiEEG it is a low-cost brain-computer interface that allows measuring EEG via RaspberryPI  
 Software [PiEEG Server](https://github.com/pieeg-club/PiEEG-server)   
 [Manual](https://colab.research.google.com/drive/1xW6fwzVdLH83zHoorjeWai6SdZoOanfA#scrollTo=9bxgisvWfs5f)    
 [Manual for quick start ](https://github.com/pieeg-club/PiEEG/blob/main/Manual.%20Conenction%20and%20start%20-%20PiEEG1.pdf)    
 PiEEG SDK [video manual](https://youtu.be/9jLyN2zRXdU)     
 
 Actual locations for the scripts will be [here](https://github.com/pieeg-club/PiEEG) 
-
+https://pieeg.com/  
+Contact: pieeg@pieeg.com  
 
 ### To Buy - PiEEG is available in the market at our partner shop [Elecrow](https://pieeg.com/pieeg/)
 
-This project is the result of several years of work on the development of BCI. We believe that the easiest way to get started with biosignals is to use a shield.
-We will try to reveal the process of reading EEG signals as fully and clearly as possible. 
-
-### GUI
-PiEEG it is a low-cost brain-computer interface that allows measuring EEG via RaspberryPI  
-[Manual](https://colab.research.google.com/drive/1xW6fwzVdLH83zHoorjeWai6SdZoOanfA#scrollTo=9bxgisvWfs5f)    
-[Manual for quick start ](https://github.com/pieeg-club/PiEEG/blob/main/Manual.%20Conenction%20and%20start%20-%20PiEEG1.pdf)    
-PiEEG SDK [video maual](https://youtu.be/9jLyN2zRXdU)     
-Practical Python Signal Processing [course in Udemy](https://www.udemy.com/course/signal-processing-python-for-eeg/?referralCode=2D537B5EAD7114C43DE2) comfortable for PiEEG 
-
-https://pieeg.com/  
-Contact: pieeg@pieeg.com  
 
 <img src="https://github.com/pieeg-club/PiEEG/blob/main/images/1729020252009.jfif" alt="alt tag" title="aloha">
 
